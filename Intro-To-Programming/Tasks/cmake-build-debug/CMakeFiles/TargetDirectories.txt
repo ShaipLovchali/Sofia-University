@@ -1,0 +1,7 @@
+C:/Users/Shaip/Programming/C++/Tasks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Shaip/Programming/C++/Tasks/cmake-build-debug/CMakeFiles/creeper.dir
+C:/Users/Shaip/Programming/C++/Tasks/cmake-build-debug/CMakeFiles/Tasks.dir
+C:/Users/Shaip/Programming/C++/Tasks/cmake-build-debug/CMakeFiles/areaAndPerimeterOfRectangle.dir
+C:/Users/Shaip/Programming/C++/Tasks/cmake-build-debug/CMakeFiles/threeDigitNumbers.dir
+C:/Users/Shaip/Programming/C++/Tasks/cmake-build-debug/CMakeFiles/turtles.dir
+C:/Users/Shaip/Programming/C++/Tasks/cmake-build-debug/CMakeFiles/edit_cache.dir

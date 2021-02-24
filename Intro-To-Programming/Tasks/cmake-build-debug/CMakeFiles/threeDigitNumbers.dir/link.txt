@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\threeDigitNumbers.dir/objects.a
+C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\threeDigitNumbers.dir/objects.a @CMakeFiles\threeDigitNumbers.dir\objects1.rsp
+C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\threeDigitNumbers.dir/objects.a -Wl,--no-whole-archive  -o threeDigitNumbers.exe -Wl,--out-implib,libthreeDigitNumbers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\threeDigitNumbers.dir\linklibs.rsp
